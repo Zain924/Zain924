@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=prs&count_private=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zain924&show_icons=true&theme=radical&hide=prs&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain924&layout=compact&theme=radical)
 
 ---
 
