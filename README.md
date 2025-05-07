@@ -39,14 +39,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 
 ---
 
-## 📫 Let's Connect!
-
-- 🌐 [Portfolio Website](#)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
-- 📧 Email: youremail@example.com
-
----
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
